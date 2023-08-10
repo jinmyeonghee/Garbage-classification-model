@@ -1,7 +1,7 @@
 # 재활용쓰레기 분류 모델
 **프로젝트기간 : 2023.02.02 ~ 2023.02.07**
 
-**사용 언어 : <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>**
+**사용 언어 : python**
 
 **개발환경 : macOS Ventura 13.1, visual studio code**
 
