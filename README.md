@@ -22,7 +22,20 @@
 
 ### 2. CNN으로 모델 구축, 전이학습을 이용해 2개 모델 추가 제작
 - 사전학습모델 : MobileNet, ResNet 사용
-<img width="771" alt="스크린샷 2023-08-10 오후 2 51 33" src="https://github.com/jinmyeonghee/Garbage-classification-model/assets/114460314/6030308b-124a-4211-8375-c07f1dc91e15">
+- CNN모델 평가 정확도 70.7%
+<img width="815" alt="스크린샷 2023-08-17 오후 11 42 51" src="https://github.com/jinmyeonghee/Garbage-classification-model/assets/114460314/52a6ca3f-ea1a-4f28-8709-b63e3c9acfe3">
+
+- MobileNet모델 정확도 74.8%
+<img width="811" alt="스크린샷 2023-08-17 오후 11 43 40" src="https://github.com/jinmyeonghee/Garbage-classification-model/assets/114460314/90014d78-5ceb-4bfe-a7d3-396f18df2b8e">
+
+- ResNet모델
+<img width="807" alt="스크린샷 2023-08-17 오후 11 44 20" src="https://github.com/jinmyeonghee/Garbage-classification-model/assets/114460314/f3800bf6-4eec-46f2-a9f7-1b13cbb9a470">
+
+### 3. 모델 평가
+- 성능이 가장 좋았던 MobileNet으로 테스트
+- 6가지 class중 가장 높은 비율인 class로 예측함
+<img width="822" alt="스크린샷 2023-08-17 오후 11 45 13" src="https://github.com/jinmyeonghee/Garbage-classification-model/assets/114460314/9b52f7b1-f90d-4163-8d0f-dc869a6fd6b9">
+- 휴지심은 종이로 잘 예측. 병은 glass로 잘 예측. 건전지는 87%확률로 종이로 예측함. 
 
 
 ### 프로젝트 평가
