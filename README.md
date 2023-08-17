@@ -22,13 +22,13 @@
 
 ### 2. CNN으로 모델 구축, 전이학습을 이용해 2개 모델 추가 제작
 - 사전학습모델 : MobileNet, ResNet 사용
-- CNN모델 평가 정확도 70.7%
+1) CNN모델 평가 정확도 70.7%
 <img width="815" alt="스크린샷 2023-08-17 오후 11 42 51" src="https://github.com/jinmyeonghee/Garbage-classification-model/assets/114460314/52a6ca3f-ea1a-4f28-8709-b63e3c9acfe3">
 
-- MobileNet모델 정확도 74.8%
+2) MobileNet모델 정확도 74.8%
 <img width="811" alt="스크린샷 2023-08-17 오후 11 43 40" src="https://github.com/jinmyeonghee/Garbage-classification-model/assets/114460314/90014d78-5ceb-4bfe-a7d3-396f18df2b8e">
 
-- ResNet모델
+3) ResNet모델
 <img width="807" alt="스크린샷 2023-08-17 오후 11 44 20" src="https://github.com/jinmyeonghee/Garbage-classification-model/assets/114460314/f3800bf6-4eec-46f2-a9f7-1b13cbb9a470">
 
 ### 3. 모델 평가
